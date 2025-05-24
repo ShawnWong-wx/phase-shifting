@@ -1,6 +1,5 @@
 # Copyright (c) 2019 kamino410. All rights reserved.
 # This code is licensed under MIT license (see LICENSE.txt for details)
-
 import sys
 import os
 import os.path
